@@ -1,19 +1,19 @@
 # Bank Management Project
 
 ## Overview
-The **Bank Management Project** is a C++ console application designed to simulate basic banking operations. It uses **file-based storage** to manage data for users, clients, and transactions, providing a simple yet effective way to learn object-oriented programming, file handling, and project structuring in C++.  
+The **Bank Management Project** is a C++ console application developed by **El Mehdi Mhaoune**.  
+It simulates a basic banking system, allowing management of **users, clients, and transactions** using a **file-based database**. The project focuses on **object-oriented programming (OOP)** principles, modular code organization, and practical use of **file handling (`fstream`)** in C++.  
 
-The project features a **modular architecture**, separating concerns into folders like `Core`, `Screens`, and `DataBase(Files)` for easy maintenance and scalability.
+This project was developed as part of programming learning and practice, emphasizing **problem-solving**, **data structures**, and **real-world project management** skills.  
 
 ---
 
 ## Features
-- **User Management:** Create, edit, and delete bank users.  
+- **User Management:** Create, edit, and delete users.  
 - **Client Management:** Handle client accounts and personal information.  
 - **Transaction Management:** Record deposits, withdrawals, and transfers.  
-- **File-based Database:** All data is stored in `.txt` files inside the `DataBase(Files)` folder.  
-- **Screen Modules:** Separate screens for login, client operations, and currency handling.  
+- **File-based Database:** Stores data in `.txt` files inside the `DataBase(Files)` folder.  
+- **Screen Modules:** Separate screens for login, client operations, and currency management.  
+- **Modular Architecture:** Organized folders for `Core`, `Screens`, `Libraries`, and `DataBase(Files)` to improve maintainability and readability.  
 
 ---
-
-## Folder Structure
