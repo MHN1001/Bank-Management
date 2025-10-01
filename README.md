@@ -22,7 +22,7 @@ This project was developed as part of programming learning and practice, emphasi
 ## Default Login
 
 - **Username :** User1
-- **Password :**: 2002
+- **Password :** 2002
 - **Use these credentials to access the application.**
 
 ---
