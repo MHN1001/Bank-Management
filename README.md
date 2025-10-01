@@ -9,19 +9,20 @@ This project was developed as part of programming learning and practice, emphasi
 ---
 
 ## Features
-- **User Management:** Create, edit, delete users, and manage permissions.
-- **Client Management:** Handle client accounts and personal information.  
-- **Transaction Management:** Record deposits, withdrawals, and transfers.  
-- **File-based Database:** Stores data in `.txt` files inside the `DataBase(Files)` folder.  
-- **Screen Modules:** Separate screens for login, client operations, and currency management.  
-- **Modular Architecture:** Organized folders for `Core`, `Screens`, `Libraries`, and `DataBase(Files)` to improve maintainability and readability.  
+- **User Management :** Create, edit, delete users, and manage permissions.
+- **Client Management :** Handle client accounts and personal information.  
+- **Transaction Management :** Record deposits, withdrawals, and transfers.
+- **currency management :** Allows listing currencies, searching for a specific currency, updating exchange rates, performing currency calculations.
+- **File-based Database :** Stores data in `.txt` files.  
+- **Screen Modules :** Separate screens for login, client operations, and currency management.  
+- **Modular Architecture :** Organized folders for `Core`, `Screens`, `Libraries` to improve maintainability and readability.  
 
 ---
 
-##Default Login
+## Default Login
 
-Username: User1
-Password: 2002
-Use these credentials to access the application.
+- **Username :** User1
+- **Password :**: 2002
+- **Use these credentials to access the application.**
 
 ---
