@@ -1,4 +1,4 @@
-# Bank Management Project
+ # Bank Management Project
 
 ## Overview
 The **Bank Management Project** is a C++ console application developed by **El Mehdi Mhaoune**.  
@@ -9,11 +9,19 @@ This project was developed as part of programming learning and practice, emphasi
 ---
 
 ## Features
-- **User Management:** Create, edit, and delete users.  
+- **User Management:** Create, edit, delete users, and manage permissions.
 - **Client Management:** Handle client accounts and personal information.  
 - **Transaction Management:** Record deposits, withdrawals, and transfers.  
 - **File-based Database:** Stores data in `.txt` files inside the `DataBase(Files)` folder.  
 - **Screen Modules:** Separate screens for login, client operations, and currency management.  
 - **Modular Architecture:** Organized folders for `Core`, `Screens`, `Libraries`, and `DataBase(Files)` to improve maintainability and readability.  
+
+---
+
+##Default Login
+
+Username: User1
+Password: 2002
+Use these credentials to access the application.
 
 ---
